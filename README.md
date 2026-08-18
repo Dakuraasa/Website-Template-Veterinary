@@ -1,7 +1,7 @@
 <div align="center">
   <font face="Century Gothic, Arial, sans-serif">
-<br>
-    <a href="github.io/Website-Template-Veterinary/focinhofelizexercicio/">CLICK HERE TO VIEW THE SITE</a>
+    <h2>Project Website</h2>
+    <a href="./focinhofelizexercicio/">CLICK HERE TO VIEW THE LIVE SITE</a>
     <br><br><br>
     <img src="assetsgit/gato.jpeg" alt="Footer Image" width="100%">
   </font>
